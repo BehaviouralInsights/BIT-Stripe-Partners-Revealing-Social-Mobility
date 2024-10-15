@@ -1,4 +1,4 @@
-**Revealing Social Mobility I: Income mobility across local authorities in England**
+**Revealing Social Mobility: Income mobility across England**
 
 Our Revealing Social Capital project funded by the Nuffield Foundation, explores how social connections influence people's life outcomes, with a focus on social mobility. As part of our ongoing research, we're publishing, in collaboration with Stripe Partners, a series of regional social mobility statistics for England. Later this year, we plan to publish more detailed social mobility estimates, covering smaller geographical areas and using different approaches.    
 
@@ -7,3 +7,5 @@ We use Longitudinal Education Outcomes (LEO) data which links individuals’ sch
 More detail on the methdology we used can be found on our website:  
 
 This work contains statistical data from ONS which is Crown Copyright. The use of the ONS statistical data in this work does not imply the endorsement of the ONS in relation to the interpretation or analysis of the statistical data. This work uses research datasets which may not exactly reproduce National Statistics aggregates. All analyses have been conducted in the ONS Secure Research Service.
+
+Department for Education; HM Revenue and Customs; Department for Work and Pensions; Higher Education Statistics Agency, released 01 November 2023, ONS SRS Metadata Catalogue, dataset, Longitudinal Education Outcomes SRS Iteration 2 Standard Extract - England, https://doi.org/10.57906/pzfv-d195
